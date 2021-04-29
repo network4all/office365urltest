@@ -17,7 +17,7 @@ import (
 
 const (
    dnsserver = "1.1.1.1"
-   clientid = "5d83f9f2-899e-49c4-b9b4-xxxxxxxxxxx" // request id from microsoft!
+   clientid = "b10c5ed1-bad1-445f-b386-b919946339a7" // request id from microsoft!
 )
 
 type service struct {
