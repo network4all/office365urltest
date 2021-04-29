@@ -1,10 +1,11 @@
 # office365urltest
 Golang script to test all microsoft office 365 urls for connectivity issues
 
-go run office365urltest.go
+`go run office365urltest.go`
 
-(sample output)
+## Sample output
 
+`
 Starting connectivity tests...
 -------------------------------------------------------------------
 
@@ -36,3 +37,4 @@ resolved:  outlook.ha.office365.com.
 [2021-04-29 12:11:15] 52.97.233.66:443     1     17.69ms -
 [2021-04-29 12:11:16] 52.97.150.2:443      2     18.99ms -
 ....
+`
