@@ -5,8 +5,7 @@ Golang script to test all microsoft office 365 urls for connectivity issues
 
 ## Sample output
 
-`
-Starting connectivity tests...
+`Starting connectivity tests...
 -------------------------------------------------------------------
 
 resolved:  CDG-efz.ms-acdc.office.com.
